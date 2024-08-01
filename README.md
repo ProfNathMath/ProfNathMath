@@ -1,6 +1,6 @@
 - Olá, meu nome é Nathalia Fernandes
 - Sou professora na E.E. José Jorge do Amaral
-- Leciono a disciplina de Tecnologia e Inovação
+- Leciono a disciplina de Tecnologia e Robótica
 
 
 <!---
